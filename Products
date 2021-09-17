@@ -1,0 +1,40 @@
+{
+    "ship_from_only": "1",
+    "products": [
+      {"part_number": "CBKCZZ2901-L", "quantity": 50},
+      {"part_number": "BLLCOW3035+M", "quantity": 1000}
+    ],
+    "ship_to_address": {
+      "street_1": "220 Grandville Ave SW",
+      "street_2": "",
+      "city": "Grand Rapids",
+      "postal_code": "49501",
+      "state": "MI"
+    }
+    
+    "ship_from_only": "2",
+    "products": [
+      {"part_number": "456-L", "quantity": 20},
+      {"part_number": "456+M", "quantity": 500}
+    ],
+    "ship_to_address": {
+      "street_1": "Grand Trunk Road",
+      "street_2": "",
+      "city": "Jawahar street",
+      "postal_code": "50980",
+      "state": "WA"
+    }
+    
+    "ship_from_only": "3",
+    "products": [
+      {"part_number": "789-L", "quantity": 0},
+      {"part_number": "789+M", "quantity": 40}
+    ],
+    "ship_to_address": {
+      "street_1": "Beverly Hills",
+      "street_2": "Axle Colony",
+      "city": "Hamrect",
+      "postal_code": "34212",
+      "state": "CA"
+    }
+}
